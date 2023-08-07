@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StoragePermissionChecker</string>
+    <string name="permission_storage">com.example.storagepermissionchecker.PERMISSION_STORAGE</string>
+    <string name="user_first_time">com.example.storagepermissionchecker.USER_FIRST_TIME</string>
+    <string name="permission_preferences"> com.example.storagepermissionchecker.PERMISSION_PREFERENCES</string>
+</resources>
